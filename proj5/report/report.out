@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Discrete Event Simulation}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{What this simulation can solve}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Simulation Routine}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Basic Framework}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Routine 1}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Routine 2}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{code}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Result}{}% 8
+\BOOKMARK [1][-]{section.3}{HOL-blocking switch performance}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Background}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Implementation}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Algorithm}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Code}{subsection.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Experiment \046 Result:}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Markov chain}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Problem Description}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Impletation}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Result \046 Analysis:}{section.4}% 18
