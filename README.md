@@ -1,1 +1,2 @@
-# EE511-PROJ5
+# This projects simulates the markov chain 
+also conduct some simulation of some interesting discrete event
